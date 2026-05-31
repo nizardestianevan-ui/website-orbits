@@ -1,0 +1,106 @@
+body {
+  background-color: #0e0a1f;
+  margin: 0;
+}
+#judul {
+  background-image: url("https://i.ibb.co.com/ccQ2SMs6/images-19.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  padding: 20px;
+}
+.tjudul {
+  text-align: center;
+  color: #c4b5fd;
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+}
+.pejelasanJ {
+  text-align: center;
+  color: #f0e8ff;
+  font-size: 20px;
+  font-family: "Space Grotesk", sans-serif;
+}
+#pembuat {
+  text-align: center;
+  color: #f472b6;
+  font-size: 15px;
+  font-family: "Space Mono", monospace;
+}
+.musik {
+  filter: invert(1);
+  margin-bottom: 0;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.subjudul {
+  text-align: left;
+  color: #c4b5fd;
+  background-color: #1a1040;
+  height: 50px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 30px;
+  margin-top: 0;
+}
+.paragraf {
+  text-align: justify;
+  color: #f0e8ff;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 15px;
+  margin-top: 0;
+}
+.img {
+  width: 100%;
+  height: auto;
+}
+#video {
+  width: 100%;
+  height: 500px;
+}
+a:link {
+  color: #f0e8ff;
+}
+a:visited {
+  color: #c4b5fd;
+}
+a:hover {
+  color: #f472b6;
+}
+a:active {
+  color: #c4b5fd;
+}
+.navigasi {
+  color: #f0e8ff;
+  font-family: "Space Mono", monospace;
+  background-color: #1a1040;
+  padding: 10px;
+  font-size: 20px;
+}
+.penutup {
+  background-image: url("pexels-zelch-14618855.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 50px;
+}
+.KataPenutup {
+  text-align: center;
+  color: #f472b6;
+  font-family: "Space Mono", monospace;
+  font-size: 20px;
+}
+.maaf {
+  text-align: center;
+  color: #f0e8ff;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 15px;
+}
+.nama {
+  text-align: right;
+  color: #f472b6;
+  font-family: "Space Mono", monospace;
+  font-size: 15px;
+}
